@@ -315,7 +315,7 @@ We love contributions! Here's how you can help make BrainyBox even better:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sairohithtappatla45@gmail.com-E26D5A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahasra.peram.77@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sahasra.peram.77@gmail.com-E26D5A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahasra.peram.77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahasra-peram/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
